@@ -25,9 +25,3 @@ Para simular um banco de dados sem utilizar instâncias de objetos ou coleções
 * **Controle de Fluxo (Flags):** Implementação de uma variável de sessão (`nivelAcesso`) que interage dinamicamente com o `switch-case` para exibir ou bloquear módulos do menu.
 * **Deslocamento de Vetor (Shift):** Lógica matemática e estrutural em laços `for` para reordenar o array ao excluir um item, evitando espaços nulos (`null`) ou buracos na memória.
 
-## 🚀 Como Executar
-
-1. Tenha o **Java JDK** instalado na sua máquina.
-2. Clone este repositório:
-   ```bash
-   git clone [https://github.com/GustavoSilva538/Projeto-Semestre-1.git](https://github.com/GustavoSilva538/Projeto-Semestre-1.git)
